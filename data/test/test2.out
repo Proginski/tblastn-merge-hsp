@@ -1,0 +1,21 @@
+### Should NOT work ###
+# TBLASTN 2.12.0+												
+# Query: Sequence_1												
+# Database: Ahal.fna.db												
+# 0 hits found												
+# TBLASTN 2.12.0+												
+# Query: Sequence_2												
+# Database: Ahal.fna.db												
+# 0 hits found												
+# TBLASTN 2.12.0+												
+# Query: Sequence_3												
+# Database: Ahal.fna.db												
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp												
+# 11 hits found												
+Sequence_3	FJVB01000155.1	17	40	0	27	66	400196	400315	6.20e-08	50.8	100	40
+Sequence_3	FJVB01000008.1	14	30	0	17	46	1485873	1485784	6.26e-06	36.6	100	30
+Sequence_3	FJVB01000008.1	10	25	0	47	71	1485782	1485708	6.26e-06	30.4	100	25
+Sequence_3	FJVB01000140.1	16	30	0	17	46	421196	421107	5.02e-04	33.5	100	30
+Sequence_3	FJVB01000140.1	7	21	0	47	67	421105	421043	5.02e-04	26.9	100	21
+Sequence_3	FJVB01000140.1	16	30	0	17	46	422341	422252	7.87e-04	33.5	100	30
+Sequence_3	FJVB01000140.1	5	18	0	47	64	422250	422197	7.87e-04	26.6	100	18

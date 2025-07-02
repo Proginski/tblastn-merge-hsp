@@ -1,0 +1,100 @@
+# TBLASTN 2.12.0+													
+# Query: Sequence_1													
+# Database: Ahal.fna.db													
+# 0 hits found													
+# TBLASTN 2.12.0+													
+# Query: Sequence_2													
+# Database: Ahal.fna.db													
+# 0 hits found													
+# TBLASTN 2.12.0+													
+# Query: Sequence_3													
+# Database: Ahal.fna.db													
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp, sbjct frame													
+# 11 hits found													
+Sequence_3	FJVB01000155.1	17	40	0	27	66	400196	400315	6.20e-08	50.8	100	40	2
+Sequence_3	FJVB01000008.1	14	30	0	17	46	1485873	1485784	6.26e-06	36.6	100	30	-3
+Sequence_3	FJVB01000008.1	10	25	0	47	71	1485782	1485708	6.26e-06	30.4	100	25	-1
+Sequence_3	FJVB01000140.1	16	30	0	17	46	421196	421107	5.02e-04	33.5	100	30	-1
+Sequence_3	FJVB01000140.1	7	21	0	47	67	421105	421043	5.02e-04	26.9	100	21	-2
+Sequence_3	FJVB01000140.1	16	30	0	17	46	422341	422252	7.87e-04	33.5	100	30	-2
+Sequence_3	FJVB01000140.1	5	18	0	47	64	422250	422197	7.87e-04	26.6	100	18	-3
+Sequence_3	FJVB01000014.1	17	30	0	17	46	923654	923743	5.13e-04	31.6	100	30	2
+Sequence_3	FJVB01000014.1	4	18	0	47	64	923745	923798	5.13e-04	28.5	100	18	3
+Sequence_3	FJVB01001462.1	10	44	1	68	100	1978	2109	7.50e-04	39.3	100	33	1
+Sequence_3	FJVB01001434.1	10	44	1	68	100	567	436	7.52e-04	39.3	100	33	-3
+# TBLASTN 2.12.0+													
+# Query: Sequence_4													
+# Database: Ahal.fna.db													
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp, sbjct frame													
+# 2 hits found													
+Sequence_4	FJVB01000008.1	5	36	0	7	42	1862104	1861997	5.62e-12	59.7	100	36	-2
+Sequence_4	FJVB01000008.1	0	13	0	44	56	1861988	1861950	5.62e-12	28.1	100	13	-1
+# TBLASTN 2.12.0+													
+# Query: Sequence_5													
+# Database: Ahal.fna.db													
+# 0 hits found													
+# TBLASTN 2.12.0+													
+# Query: Sequence_6													
+# Database: Ahal.fna.db													
+# 0 hits found													
+# TBLASTN 2.12.0+													
+# Query: Sequence_7													
+# Database: Ahal.fna.db													
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp, sbjct frame													
+# 4 hits found													
+Sequence_7	FJVB01000220.1	14	37	1	39	74	63506	63396	6.63e-08	38.9	100	36	-3
+Sequence_7	FJVB01000220.1	7	29	1	11	36	63592	63506	6.63e-08	35.0	100	26	-1
+Sequence_7	FJVB01000220.1	7	29	1	11	36	63782	63696	1.08e-04	35.0	100	26	-3
+Sequence_7	FJVB01000220.1	4	20	1	39	57	63696	63637	1.08e-04	28.1	100	19	-2
+# TBLASTN 2.12.0+													
+# Query: Sequence_8													
+# Database: Ahal.fna.db													
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp, sbjct frame													
+# 2 hits found													
+Sequence_8	FJVB01000313.1	25	88	1	13	99	49872	50135	1.25e-28	109	100	87	3
+Sequence_8	FJVB01000313.1	50	96	3	11	99	50213	50491	3.91e-05	42.7	100	89	2
+# TBLASTN 2.12.0+													
+# Query: Sequence_9													
+# Database: Ahal.fna.db													
+# 0 hits found													
+# TBLASTN 2.12.0+													
+# Query: Sequence_10													
+# Database: Ahal.fna.db													
+# 0 hits found													
+# TBLASTN 2.12.0+													
+# Query: Sequence_11													
+# Database: Ahal.fna.db													
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp, sbjct frame													
+# 6 hits found													
+Sequence_11	FJVB01000153.1	8	26	0	74	99	404058	404135	1.47e-04	41.2	100	26	3
+Sequence_11	FJVB01000154.1	14	34	0	67	100	372739	372840	4.21e-04	40.0	100	34	1
+Sequence_11	FJVB01000306.1	9	27	0	74	100	37201	37281	7.12e-04	39.3	100	27	1
+Sequence_11	FJVB01000046.1	10	27	0	74	100	15489	15569	8.66e-04	38.9	100	27	3
+Sequence_11	FJVB01000212.1	9	27	0	74	100	132297	132377	8.74e-04	38.9	100	27	3
+Sequence_11	FJVB01000016.1	13	33	0	68	100	1580563	1580465	0.001	38.9	100	33	-1
+# TBLASTN 2.12.0+													
+# Query: Sequence_12													
+# Database: Ahal.fna.db													
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp, sbjct frame													
+# 2 hits found													
+Sequence_12	FJVB01000150.1	10	39	1	1	34	247487	247371	7.90e-05	40.8	100	34	-2
+Sequence_12	FJVB01000150.1	9	26	1	35	58	247369	247292	7.90e-05	22.7	100	24	-3
+# TBLASTN 2.12.0+													
+# Query: Sequence_13													
+# Database: Ahal.fna.db													
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp, sbjct frame													
+# 1 hits found													
+Sequence_13	FJVB01000002.1	28	85	4	13	92	3337239	3336991	1.85e-17	77.8	100	80	-1
+# TBLASTN 2.12.0+													
+# Query: Sequence_14													
+# Database: Ahal.fna.db													
+# Fields: query acc.ver, subject acc.ver, mismatches, alignment length, gap opens, q. start, q. end, s. start, s. end, evalue, bit score, query length, % query coverage per hsp, sbjct frame													
+# 1 hits found													
+Sequence_14	FJVB01000008.1	24	77	3	24	94	1890754	1890984	9.25e-18	79.0	100	71	1
+# TBLASTN 2.12.0+													
+# Query: Sequence_15													
+# Database: Ahal.fna.db													
+# 0 hits found													
+# TBLASTN 2.12.0+													
+# Query: Sequence_16													
+# Database: Ahal.fna.db													
