@@ -23,6 +23,7 @@ License: MIT
 import argparse
 import sys
 import math
+import warnings
 
 def parse_args():
     parser = argparse.ArgumentParser(
@@ -39,7 +40,8 @@ def get_colnames(inputfile):
             if line.startswith('# Fields: '):
                 header = line.strip()[len('# Fields: '):]
                 return [c.strip() for c in header.split(',')]
-    raise ValueError("No '# Fields: ' header found in input file.")
+    warnings.warn("No '# Fields: ' header found in input file.")
+    sys.exit(0)
 
 def sign(num):
     """Return the sign of a number as int (+1 or -1)."""
